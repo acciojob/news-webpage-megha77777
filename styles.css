@@ -3,12 +3,11 @@ body{
 	background-color: #f5f5f5;
 }
 .header{
+	text-align:center;
 	background-color: #011e29;
 	color:white;
 	font-family:cursive;
-	display:flex;
-	justify-content:center;
-	align-items:center;
+	padding:2px;
 }
 .latest-news-section{
 	background-color:white;
@@ -27,6 +26,7 @@ body{
 	height:fit-content;
 }
 .pictorial-news-section{
+	text-align:center;
 	background-color:white;
 	font-family:cursive;
 	width:200px;
