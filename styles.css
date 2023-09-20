@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f5f5f5;
+}
+.header{
+	background-color: #011e29;
+	color:white;
+	font-family:cursive;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.latest-news-section{
+	background-color:white;
+	font-family:cursive;
+	width:200px;
+	padding:16px;
+	margin:9px;
+	height:fit-content;
+}
+.main-article{
+	background-color:white;
+	font-family:cursive;
+	width:200px;
+	padding:16px;
+	margin:9px;
+	height:fit-content;
+}
+.pictorial-news-section{
+	background-color:white;
+	font-family:cursive;
+	width:200px;
+	padding:16px;
+	margin:9px;
+	height:fit-content;
+}
+img{
+	height: 90px;
+	padding:5px;
+	margin:9px;
+}
+.sec-flex{
+	display:flex;
+	justify-content:center;
+}
